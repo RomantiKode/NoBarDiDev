@@ -1,0 +1,8 @@
+{
+  "name": "Agoose CloudStream",
+  "description": "Repository ekstensi CloudStream Agoose",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/plugins.json"
+  ]
+}
