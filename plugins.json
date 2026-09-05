@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://anime-indo.lol/logos.png",
-        "fileHash": "sha256-7642d1f58bac9758709ace0421cc6421aed02ef2b11d426b42b4443386144ec3",
+        "fileHash": "sha256-56bd34b3c45011edd4af3eb91e8ba16f0d774e65ff157d87b28077ff72fcc9f8",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
-        "fileSize": 36779,
+        "fileSize": 36995,
         "status": 3,
         "language": "id",
         "authors": [
@@ -22,10 +22,10 @@
     },
     {
         "iconUrl": "https://animexin.dev/wp-content/uploads/2020/06/cropped-index.jpg",
-        "fileHash": "sha256-db7fea352d86e9c9590ee45cf1f3e5d7d4e6096354627e3e26354696b70e9014",
+        "fileHash": "sha256-c7b216a822fc7a8421f26be9adf6d8404f26aee7b1664698964db15f7912b49a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
-        "fileSize": 120907,
+        "fileSize": 120961,
         "status": 3,
         "language": "id",
         "authors": [
@@ -42,11 +42,31 @@
         "name": "AnimeXin"
     },
     {
-        "iconUrl": "https://assets.showcdnx.com/favicon.ico",
-        "fileHash": "sha256-b17f47a7ae676b2dd6fa3175f802c62aa5b3b63a1f29642e7915fd38c70d4668",
+        "fileHash": "sha256-224e0474d5c5d30568ee528d12ccdcf52fa16ad5c6000d8bccd7623d6ca1618a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
-        "fileSize": 276960,
+        "fileSize": 97132,
+        "status": 3,
+        "language": "id",
+        "authors": [
+            "Agoose"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 9,
+        "internalName": "Kuronime",
+        "description": "Kuronime Situs Nonton Anime Subtitle Indonesia Secara Online Download Maupun Streaming Anime Sub Indo Terbaru Dan kualitas Lengkap Yang Update Setiap Hari Gratis.",
+        "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/Kuronime.cs3",
+        "name": "Kuronime"
+    },
+    {
+        "iconUrl": "https://assets.showcdnx.com/favicon.ico",
+        "fileHash": "sha256-7c894cf3f086def9ad5df8acbec2443acb734861f52ffcc081e159129019d339",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
+        "fileSize": 276290,
         "status": 3,
         "language": "id",
         "authors": [
@@ -64,10 +84,10 @@
     },
     {
         "iconUrl": "https://backapi.oploverz.ac/uploads/settings/website/favicons/3161ce4d-ce90-4d07-b019-57bf64a9594e.png",
-        "fileHash": "sha256-8b09fab4237b8cee9718d565740f284deb899e2ded94a135dd54874fee323e59",
+        "fileHash": "sha256-108fd66083d04b09ec9a69711e6c64d891a9c9db7841307e9e8818e1e939d826",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
-        "fileSize": 48202,
+        "fileSize": 48280,
         "status": 3,
         "language": "id",
         "authors": [
