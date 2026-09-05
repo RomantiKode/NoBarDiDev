@@ -1,107 +1,107 @@
 [
-    {
-        "iconUrl": "https://anime-indo.lol/logos.png",
-        "fileHash": "sha256-56bd34b3c45011edd4af3eb91e8ba16f0d774e65ff157d87b28077ff72fcc9f8",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
-        "fileSize": 36995,
-        "status": 3,
-        "language": "id",
-        "authors": [
-            "Agoose"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 1,
-        "internalName": "Animeindo",
-        "description": "Animeindo Adalah Tempat Nonton Streaming Anime Subtitle Indonesia Terlengkap Dan Terupdate Kualitas 240p 360p 480p 720p HD",
-        "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/Animeindo.cs3",
-        "name": "Animeindo"
-    },
-    {
-        "iconUrl": "https://animexin.dev/wp-content/uploads/2020/06/cropped-index.jpg",
-        "fileHash": "sha256-c7b216a822fc7a8421f26be9adf6d8404f26aee7b1664698964db15f7912b49a",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
-        "fileSize": 120961,
-        "status": 3,
-        "language": "id",
-        "authors": [
-            "Agoose"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 17,
-        "internalName": "AnimeXin",
-        "description": "AnimeXin - Streaming Download Donghua Subtitle Indonesia English",
-        "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/AnimeXin.cs3",
-        "name": "AnimeXin"
-    },
-    {
-        "fileHash": "sha256-224e0474d5c5d30568ee528d12ccdcf52fa16ad5c6000d8bccd7623d6ca1618a",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
-        "fileSize": 97132,
-        "status": 3,
-        "language": "id",
-        "authors": [
-            "Agoose"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 9,
-        "internalName": "Kuronime",
-        "description": "Kuronime Situs Nonton Anime Subtitle Indonesia Secara Online Download Maupun Streaming Anime Sub Indo Terbaru Dan kualitas Lengkap Yang Update Setiap Hari Gratis.",
-        "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/Kuronime.cs3",
-        "name": "Kuronime"
-    },
-    {
-        "iconUrl": "https://assets.showcdnx.com/favicon.ico",
-        "fileHash": "sha256-7c894cf3f086def9ad5df8acbec2443acb734861f52ffcc081e159129019d339",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
-        "fileSize": 276290,
-        "status": 3,
-        "language": "id",
-        "authors": [
-            "Agoose"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 27,
-        "internalName": "Layarkaca21",
-        "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
-        "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/Layarkaca21.cs3",
-        "name": "Layarkaca21"
-    },
-    {
-        "iconUrl": "https://backapi.oploverz.ac/uploads/settings/website/favicons/3161ce4d-ce90-4d07-b019-57bf64a9594e.png",
-        "fileHash": "sha256-108fd66083d04b09ec9a69711e6c64d891a9c9db7841307e9e8818e1e939d826",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
-        "fileSize": 48280,
-        "status": 3,
-        "language": "id",
-        "authors": [
-            "Agoose"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie",
-            "OVA"
-        ],
-        "version": 5,
-        "internalName": "Oploverz",
-        "description": "Web Asli Oploverz hanya oploverz plus. Selalu tonton Anime Garapan Oploverz hanya di oploverz asli yang minim iklan.",
-        "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/Oploverz.cs3",
-        "name": "Oploverz"
-    }
+  {
+    "iconUrl": "https://anime-indo.lol/logos.png",
+    "fileHash": "sha256-56bd34b3c45011edd4af3eb91e8ba16f0d774e65ff157d87b28077ff72fcc9f8",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
+    "fileSize": 36995,
+    "status": 3,
+    "language": "id",
+    "authors": [
+      "Agoose"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 1,
+    "internalName": "Animeindo",
+    "description": "Animeindo Adalah Tempat Nonton Streaming Anime Subtitle Indonesia Terlengkap Dan Terupdate Kualitas 240p 360p 480p 720p HD",
+    "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/Animeindo.cs3",
+    "name": "Animeindo"
+  },
+  {
+    "iconUrl": "https://animexin.dev/wp-content/uploads/2020/06/cropped-index.jpg",
+    "fileHash": "sha256-c7b216a822fc7a8421f26be9adf6d8404f26aee7b1664698964db15f7912b49a",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
+    "fileSize": 120961,
+    "status": 3,
+    "language": "id",
+    "authors": [
+      "Agoose"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 17,
+    "internalName": "AnimeXin",
+    "description": "AnimeXin - Streaming Download Donghua Subtitle Indonesia English",
+    "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/AnimeXin.cs3",
+    "name": "AnimeXin"
+  },
+  {
+    "fileHash": "sha256-472557b497d4d37353307169188f16e8bc8163d81d351a93b93a5bad95fea181",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
+    "fileSize": 99750,
+    "status": 3,
+    "language": "id",
+    "authors": [
+      "Agoose"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 9,
+    "internalName": "Kuronime",
+    "description": "Kuronime Situs Nonton Anime Subtitle Indonesia Secara Online Download Maupun Streaming Anime Sub Indo Terbaru Dan kualitas Lengkap Yang Update Setiap Hari Gratis.",
+    "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/Kuronime.cs3",
+    "name": "Kuronime"
+  },
+  {
+    "iconUrl": "https://assets.showcdnx.com/favicon.ico",
+    "fileHash": "sha256-7c894cf3f086def9ad5df8acbec2443acb734861f52ffcc081e159129019d339",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
+    "fileSize": 276290,
+    "status": 3,
+    "language": "id",
+    "authors": [
+      "Agoose"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 27,
+    "internalName": "Layarkaca21",
+    "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
+    "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/Layarkaca21.cs3",
+    "name": "Layarkaca21"
+  },
+  {
+    "iconUrl": "https://backapi.oploverz.ac/uploads/settings/website/favicons/3161ce4d-ce90-4d07-b019-57bf64a9594e.png",
+    "fileHash": "sha256-108fd66083d04b09ec9a69711e6c64d891a9c9db7841307e9e8818e1e939d826",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
+    "fileSize": 48280,
+    "status": 3,
+    "language": "id",
+    "authors": [
+      "Agoose"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "version": 5,
+    "internalName": "Oploverz",
+    "description": "Web Asli Oploverz hanya oploverz plus. Selalu tonton Anime Garapan Oploverz hanya di oploverz asli yang minim iklan.",
+    "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/Oploverz.cs3",
+    "name": "Oploverz"
+  }
 ]
