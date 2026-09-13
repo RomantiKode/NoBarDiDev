@@ -1,20 +1,22 @@
-{
-    "fileHash":  "sha256-b6bffcf2e477e0ed8fb25eaeb46d0fa8008ca61c09401603b4d9141cb2776cbd",
-    "apiVersion":  1,
-    "repositoryUrl":  "https://github.com/RomantiKode/NoBarDiDev",
-    "fileSize":  44815,
-    "status":  3,
-    "language":  "id",
-    "authors":  [
-                    "Agoose.RomantiKode"
-                ],
-    "tvTypes":  [
-                    "Anime",
-                    "AnimeMovie"
-                ],
-    "version":  1,
-    "internalName":  "Sokuja",
-    "description":  "Sokuja - streaming anime subtitle Indonesia.",
-    "url":  "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/Sokuja.cs3",
-    "name":  "Sokuja"
-}
+[
+  {
+    "fileHash": "sha256-b6bffcf2e477e0ed8fb25eaeb46d0fa8008ca61c09401603b4d9141cb2776cbd",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RomantiKode/NoBarDiDev",
+    "fileSize": 44815,
+    "status": 3,
+    "language": "id",
+    "authors": [
+      "Agoose.RomantiKode"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 1,
+    "internalName": "Sokuja",
+    "description": "Sokuja - streaming anime subtitle Indonesia.",
+    "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDiDev/builds/Sokuja.cs3",
+    "name": "Sokuja"
+  }
+]
