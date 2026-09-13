@@ -5,7 +5,6 @@
                        "https://drakor.kita.mobi"
                    ],
     "indomax21":  "https://onperfect.com",
-    "Sokuja":  "https://x6.sokuja.uk",
     "MidasXXI":  "https://unairi.ac.id",
     "Terbit21":  [
                      "https://terbit21.net",
@@ -13,5 +12,8 @@
                      "https://terbit21.org"
                  ],
     "Filmlokal":  "https://tv1.filmlokal.me",
-    "DutaMovie21":  "https://204.3.234.75"
+    "DutaMovie21":  "https://204.3.234.75",
+    "Sokuja":  [
+                   "https://x6.sokuja.uk"
+               ]
 }
